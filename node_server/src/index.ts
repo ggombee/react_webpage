@@ -7,6 +7,6 @@ app.get("/api/hello", (req, res) => {
   res.send("hello world");
 });
 
-app.listen(8080, () => {
-  console.log("server is listening 8080");
+app.listen(1818, () => {
+  console.log("TypeScript server is listening 1818");
 });
